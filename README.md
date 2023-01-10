@@ -1,4 +1,4 @@
-# Node.js Course
+# Node.js Hands-on experience
 
 <p>Learned the fundamentals and use Node and Express in this course.</p>
 
